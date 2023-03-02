@@ -1,0 +1,69 @@
+/* Write your CSS here! */
+body {
+	width: 100%;
+	max-width: 800px;
+	margin: 8px;
+	background-color: #ebb8dd;
+	font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+nav ul {
+	text-align: center;
+	padding: 1em;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-right: 5em;
+	font-size: .75em;
+}
+
+header {
+	padding: 1.000em 0;
+    text-align: left;
+}
+
+figcaption {
+	font-size: 10px;
+	font-style: italic;
+}
+
+section figure img {
+	max-width: 800px;
+	max-height: 250px;
+}
+
+footer {
+	font-size: 80%;
+	padding: 10% 0;
+}
+
+.things {
+	font-size: 85%;
+}
+
+#mainHeading {
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	color: #ff1234;
+}
+
+
+#subtitle {
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+	
+}
+
+#cookie {
+	width: 800px;
+	height: 400px;
+}
+
+li {
+	font-style: italic;
+}
+
+.funParagraph {
+	color: #008000;
+	padding-bottom: 2em;
+}
